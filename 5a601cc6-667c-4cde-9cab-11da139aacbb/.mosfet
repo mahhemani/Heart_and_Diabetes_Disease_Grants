@@ -1,0 +1,8 @@
+{
+  "layout": "panel",
+  "rdbmsId": "5a601cc6-667c-4cde-9cab-11da139aacbb",
+  "hidden": false,
+  "engine": "Heart_and_Diabetes_Disease_Grants",
+  "insightName": "Heart and Disease Grants Dashboard",
+  "recipe": "DashboardInsightConfig(insights\u003d[\"Heart_and_Diabetes_Disease_Grants__816b84d0-da51-4a0c-bff0-bfe5034132db\"], oldIds\u003d[\"4_eb25a10f-5ae8-49da-a43b-ca0ca65f4254\"], layout\u003d[\"\u003cencode\u003e{\"currentLayout\":{\"config\":{\"options\":{\"type\":\"grid\",\"xCount\":2,\"yCount\":2},\"scroll\":{\"active\":false,\"down\":true,\"up\":true},\"panels\":{\"SMSSWidget4_eb25a10f-5ae8-49da-a43b-ca0ca65f4254___0\":{\"top\":0,\"left\":0,\"height\":50,\"width\":50,\"index\":0,\"panelstatus\":\"normalized\"},\"SMSSWidget4_eb25a10f-5ae8-49da-a43b-ca0ca65f4254___1\":{\"top\":0,\"left\":50,\"height\":50,\"width\":50,\"index\":1,\"panelstatus\":\"normalized\"},\"SMSSWidget4_eb25a10f-5ae8-49da-a43b-ca0ca65f4254___2\":{\"top\":50,\"left\":0,\"height\":50,\"width\":50,\"index\":2,\"panelstatus\":\"normalized\"},\"SMSSWidget4_eb25a10f-5ae8-49da-a43b-ca0ca65f4254___3\":{\"top\":50,\"left\":50,\"height\":50,\"width\":50,\"index\":3,\"panelstatus\":\"normalized\"}}},\"selectedWidget\":\"SMSSWidget4_eb25a10f-5ae8-49da-a43b-ca0ca65f4254___3\",\"availableWidgets\":[{\"widgetId\":\"SMSSWidget4_eb25a10f-5ae8-49da-a43b-ca0ca65f4254___0\",\"open\":true,\"deleted\":false},{\"widgetId\":\"SMSSWidget4_eb25a10f-5ae8-49da-a43b-ca0ca65f4254___1\",\"open\":true,\"deleted\":false},{\"widgetId\":\"SMSSWidget4_eb25a10f-5ae8-49da-a43b-ca0ca65f4254___2\",\"open\":true,\"deleted\":false},{\"widgetId\":\"SMSSWidget4_eb25a10f-5ae8-49da-a43b-ca0ca65f4254___3\",\"open\":true,\"deleted\":false}]},\"selectedLayout\":\"panel\"}\u003c/encode\u003e\"] );"
+}
